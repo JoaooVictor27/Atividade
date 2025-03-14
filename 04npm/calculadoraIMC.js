@@ -13,3 +13,4 @@ const tabelaIMC =[
     {limite: 39.9, classificacao:"Obesidade Grau II"},
     {limite: 48.8, classificacao:"Obesidade Grau III"},
 ]
+  ''
