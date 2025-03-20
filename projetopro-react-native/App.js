@@ -6,11 +6,16 @@ import { Button, StyleSheet, Text, View, Image } from 'react-native';
 //Ele deve retornar o que será renderizado na tela (Template feito com JSK)
 export default function App() {
   //Lógica do meu componente
-  const nome = "João"
 
-  function alerta() {
-    alert("Voce fez o L")
-  }
+
+
+
+
+
+
+
+
+
   
   
   //Retorno com Jsk
@@ -23,7 +28,7 @@ export default function App() {
       <Text></Text>
       <Button title='Rachadinha' onPress={alerta}></Button>
       <Image
-       source={{uri:'https://i.pinimg.com/736x/6f/e1/6f/6fe16f0f0b8ff6e33dd901a79d55e5ae.jpg'}}
+       source={{uri:'https://i.pinimg.com/736x/d4/f7/05/d4f705498447bc4bfc4abc4a6c0f2dab.jpg'}}
        style={{
         height: 400,
         width: 200,
